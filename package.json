@@ -1,0 +1,22 @@
+{
+  "name": "wordpass",
+  "version": "1.0.0",
+  "description": "a module for create password generator web application ",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "node --watch index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/"
+  },
+  "keywords": [
+    "password-generator",
+    "password",
+    "generator",
+    "module"
+  ],
+  "author": "dhiraj",
+  "license": "apache-2.0"
+}
